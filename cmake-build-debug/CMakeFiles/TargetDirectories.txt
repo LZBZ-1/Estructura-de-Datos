@@ -1,0 +1,3 @@
+C:/Users/jalb2/CLionProjects/Estructuras-de-Datos/cmake-build-debug/CMakeFiles/Estructuras_de_Datos.dir
+C:/Users/jalb2/CLionProjects/Estructuras-de-Datos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jalb2/CLionProjects/Estructuras-de-Datos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
