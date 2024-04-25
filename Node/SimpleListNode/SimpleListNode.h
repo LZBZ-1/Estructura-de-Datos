@@ -23,7 +23,4 @@ public:
     void setNext(const std::shared_ptr<SimpleListNode<T>>& next);
 };
 
-template <typename T>
-std::ostream& operator<<(std::ostream& os, const SimpleListNode<T>& node);
-
 #endif //ESTRUCTURAS_DE_DATOS_SIMPLELISTNODE_H
