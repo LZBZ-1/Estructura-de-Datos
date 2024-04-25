@@ -26,15 +26,3 @@ template <typename T>
 void SimpleListNode<T>::setNext(const std::shared_ptr<SimpleListNode<T>>& next){
     this->next = next;
 }
-
-template <typename T>
-std::ostream& operator<<(std::ostream& os, const SimpleListNode<T>& node) {
-    os << "Node Data: ";
-    os << node.getData();
-    if (node.getNext()) {
-        os << ", Next Node: " << *(node.getNext());
-    } else {
-        os << ", Next Node: nullptr";
-    }
-    return os;
-}
